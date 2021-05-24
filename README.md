@@ -11,4 +11,3 @@ I'm Brian from Kenya, and I do Software development mostly web development. I mo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Brian-Munene)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-munene-munyi/)  
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-Munene)](https://github.com/anuraghazra/github-readme-stats) -->
